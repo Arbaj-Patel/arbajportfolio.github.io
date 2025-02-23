@@ -9226,6 +9226,9 @@ textarea.form-control {
     .heading-section h2 span {
       font-weight: 400; }
     @media (max-width: 767.98px) {
+      .heading-section .big{
+        display: none;
+      }
       .heading-section h2 {
         font-size: 38px; } }
   .heading-section.heading-section-white .subheading {
