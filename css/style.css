@@ -9327,6 +9327,12 @@ textarea.form-control {
     .blog-entry {
       margin-bottom: 30px; } }
   @media (max-width: 767.98px) {
+    #about-section{
+      text-align: center;
+    }
+    #about-section .counter-wrap{
+       justify-content: center;
+    }
     .blog-entry {
       margin-bottom: 30px; } }
   .blog-entry .text {
